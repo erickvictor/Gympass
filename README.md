@@ -39,7 +39,7 @@ Como usar
 
 Clone o projeto
 
-### `git clone`
+### `git clone https://github.com/erickvictor/Gympass.git`
 
 Execute o comando
 
