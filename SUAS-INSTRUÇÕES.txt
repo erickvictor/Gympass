@@ -1,0 +1,19 @@
+Como usar
+---------
+
+1) Clone o projeto
+
+git clone
+
+2) Execute o comando
+
+ruby kart.rb
+
+O resultado vem com as seguintes informações: 
+Posição Chegada, Código Piloto, Nome Piloto, Qtde Voltas Completadas e Tempo Total de Prova.
+
+1 | 038 | F.MASSA               | 4 | 00:04:11.578
+2 | 033 | R.BARRICHELLO         | 4 | 00:04:16.079
+3 | 002 | K.RAIKKONEN           | 4 | 00:04:15.153
+4 | 023 | M.WEBBER              | 4 | 00:04:17.721
+5 | 015 | F.ALONSO              | 4 | 00:04:54.221
